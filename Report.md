@@ -24,7 +24,7 @@
 
 ## CA Summary
 
-Cloud Native journey is a popular but yet challenging journey for companies. In the current report we decided to analyse the data collected during the 2020 international survey by Cloud Native Computing Foundation (CNCF). While the official report[CNCF, 2021] by CNCF summaries overall tendency in each of the surveyed question, we decided to investigate the raw data and see if there are any interesting patterns or correlations. Finally, our aim was to visualize the patterns and highlight challenges occurring among Kubernetes users and present the findings on the interactive dashboard
+Cloud Native journey is a popular but yet challenging journey for companies. In the current report we decided to analyse the data collected during the 2020 international survey by Cloud Native Computing Foundation (CNCF). While [the official report by CNCF](https://www.cncf.io/wp-content/uploads/2020/11/CNCF_Survey_Report_2020.pdf) summaries overall tendency in each of the surveyed question, we decided to investigate the raw data and see if there are any interesting patterns or correlations. Finally, our aim was to visualize the patterns and highlight challenges occurring among Kubernetes users and present the findings on the interactive dashboard
 
 ## Background
 
