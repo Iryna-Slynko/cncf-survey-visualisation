@@ -1,0 +1,888 @@
+Geographic Location,Size of company,Commit code frequency,Release cycle frequency,Release code automation,Use Kubernetes in Production,Complexity as a challenge,Lack of training as a challenge,Culture as a challenge,Number of production clusters,Use of CI/CD,Use of stateful applications,Deployment time as important benefit of using Kubernetes,The most important benefit of using K8s
+Asia,>5000,Multiple times a day,Monthly,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,
+Europe,50-99,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,FALSE,TRUE,Scalability
+Asia,1000-4999,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,FALSE,FALSE,Scalability
+Africa,>5000,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+Asia,100-499,Multiple times a day,Weekly,Manual,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a month,Multiple times a day,Hybrid,TRUE,TRUE,TRUE,FALSE,21-50,TRUE,TRUE,FALSE,Portability
+North America,>5000,Multiple times a day,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,TRUE,,FALSE,TRUE,TRUE,
+Europe,>5000,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,,TRUE,FALSE,TRUE,Deployment time
+Europe,50-99,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE,TRUE,Deployment time
+Europe,50-99,A few times a quarter,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Daily,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,FALSE,TRUE,Scalability
+North America,>5000,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,1,TRUE,TRUE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Ad Hoc,Hybrid,TRUE,FALSE,TRUE,FALSE,6-10,TRUE,FALSE,TRUE,
+North America,1000-4999,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+North America,100-499,A few times a month,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+North America,100-499,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,11-20,TRUE,FALSE,FALSE,Cost
+Europe,1000-4999,A few times a month,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,,FALSE,TRUE,FALSE,
+North America,>5000,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Scalability
+Europe,10-49,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,FALSE,1,TRUE,TRUE,FALSE,
+North America,1000-4999,A few times a week,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,2-5,FALSE,FALSE,TRUE,Portability
+Europe,500-999,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,FALSE,TRUE,1,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Asia,1000-4999,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,TRUE,FALSE,6-10,TRUE,FALSE,TRUE,Deployment time
+Europe,500-999,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,FALSE,TRUE,Productivity
+North America,500-999,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,
+Europe,100-499,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,,,,TRUE,TRUE,TRUE,FALSE,,TRUE,TRUE,TRUE,
+Europe,10-49,Multiple times a day,Daily,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,
+Europe,>5000,Multiple times a day,Daily,Hybrid,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,100-499,Multiple times a day,Weekly,Manual,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,100-499,,,,TRUE,FALSE,FALSE,TRUE,,TRUE,TRUE,TRUE,Deployment time
+Europe,1000-4999,A few times a quarter,Multiple times a day,Manual,TRUE,FALSE,TRUE,TRUE,,TRUE,TRUE,TRUE,
+Europe,500-999,Multiple times a day,Ad Hoc,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,FALSE,
+Europe,>5000,,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,FALSE,
+Europe,50-99,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Africa,500-999,Multiple times a day,Daily,Automated,TRUE,TRUE,TRUE,FALSE,,FALSE,TRUE,TRUE,
+Europe,>5000,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,
+Europe,1000-4999,A few times a week,Daily,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,FALSE,
+Asia,500-999,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,TRUE,FALSE,2-5,FALSE,FALSE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,500-999,Multiple times a day,Quarterly,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Availability
+North America,50-99,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,FALSE,TRUE,1,TRUE,TRUE,TRUE,Deployment time
+Africa,<10,A few times a quarter,,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,Deployment time
+Asia,500-999,Multiple times a day,Weekly,Automated,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,
+Europe,>5000,Multiple times a day,Quarterly,Hybrid,TRUE,TRUE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Portability
+Asia,1000-4999,A few times a month,Ad Hoc,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,Weekly,Automated,TRUE,TRUE,FALSE,TRUE,11-20,TRUE,TRUE,TRUE,Cost
+Europe,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Africa,1000-4999,A few times a month,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Africa,>5000,A few times a quarter,Monthly,Hybrid,TRUE,TRUE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+Australia and Oceania,>5000,A few times a week,Ad Hoc,Automated,TRUE,TRUE,TRUE,FALSE,2-5,TRUE,FALSE,TRUE,Productivity
+Europe,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,TRUE,FALSE,1,TRUE,TRUE,FALSE,
+Europe,10-49,Multiple times a day,Weekly,Automated,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,FALSE,Scalability
+Europe,500-999,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,FALSE,
+Asia,>5000,A few times a quarter,Monthly,Manual,TRUE,TRUE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Weekly,Manual,TRUE,FALSE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Scalability
+North America,>5000,Multiple times a day,Daily,Automated,TRUE,TRUE,FALSE,TRUE,11-20,TRUE,TRUE,TRUE,Deployment time
+Asia,100-499,Multiple times a day,Daily,Hybrid,TRUE,TRUE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,
+Australia and Oceania,>5000,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE,Availability
+North America,10-49,Multiple times a day,Monthly,Manual,TRUE,TRUE,TRUE,FALSE,11-20,TRUE,TRUE,FALSE,
+Europe,10-49,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,TRUE,TRUE,50+,TRUE,TRUE,TRUE,
+Europe,1000-4999,Multiple times a day,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,TRUE,TRUE,11-20,TRUE,TRUE,TRUE,
+North America,100-499,A few times a month,Quarterly,Manual,TRUE,TRUE,FALSE,TRUE,2-5,FALSE,TRUE,TRUE,Scalability
+Europe,500-999,Multiple times a day,Ad Hoc,Hybrid,TRUE,TRUE,TRUE,FALSE,1,TRUE,FALSE,FALSE,
+Europe,100-499,Multiple times a day,Monthly,Manual,TRUE,FALSE,FALSE,TRUE,2-5,FALSE,TRUE,FALSE,Scalability
+Europe,1000-4999,A few times a week,Quarterly,Hybrid,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,Portability
+North America,>5000,,,Manual,TRUE,TRUE,TRUE,TRUE,6-10,FALSE,TRUE,TRUE,Portability
+North America,50-99,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,TRUE,FALSE,1,TRUE,FALSE,TRUE,
+Europe,>5000,A few times a week,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,A few times a quarter,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,TRUE,21-50,TRUE,TRUE,TRUE,Productivity
+Europe,>5000,A few times a month,,,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,
+North America,10-49,Multiple times a day,Daily,Manual,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+North America,>5000,A few times a quarter,Ad Hoc,Manual,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,FALSE,Scalability
+Europe,<10,Multiple times a day,Ad Hoc,Manual,TRUE,FALSE,FALSE,TRUE,1,FALSE,FALSE,TRUE,Deployment time
+North America,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Monthly,Hybrid,TRUE,FALSE,TRUE,TRUE,1,TRUE,TRUE,TRUE,Scalability
+North America,10-49,A few times a week,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+North America,10-49,A few times a week,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,FALSE,
+North America,100-499,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,FALSE,Availability
+Europe,50-99,Multiple times a day,Weekly,,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+South and Central America,<10,Multiple times a day,,Automated,TRUE,TRUE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Cost
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,FALSE,Scalability
+North America,<10,Multiple times a day,Daily,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,FALSE,FALSE,FALSE,Availability
+North America,>5000,A few times a week,Daily,Hybrid,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,TRUE,FALSE,,FALSE,TRUE,TRUE,
+Europe,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,A few times a week,Ad Hoc,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Cost
+North America,10-49,A few times a week,,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,FALSE,FALSE,TRUE,Deployment time
+North America,1000-4999,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Scalability
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,TRUE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,<10,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,500-999,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Africa,50-99,Multiple times a day,,Automated,TRUE,TRUE,TRUE,FALSE,2-5,TRUE,FALSE,FALSE,
+North America,500-999,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,Productivity
+Europe,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,FALSE,FALSE,Scalability
+North America,10-49,Multiple times a day,Ad Hoc,Manual,TRUE,TRUE,FALSE,TRUE,1,TRUE,TRUE,FALSE,
+Europe,<10,A few times a month,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Asia,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,Multiple times a day,Manual,TRUE,TRUE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,A few times a week,Ad Hoc,Manual,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+Europe,1000-4999,A few times a week,Multiple times a day,Hybrid,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE,TRUE,Deployment time
+Asia,10-49,A few times a week,,Automated,TRUE,TRUE,TRUE,FALSE,1,TRUE,TRUE,TRUE,
+Asia,1000-4999,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+Asia,10-49,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,,TRUE,FALSE,TRUE,Deployment time
+Africa,10-49,,,Manual,TRUE,FALSE,TRUE,TRUE,2-5,FALSE,TRUE,TRUE,Deployment time
+Europe,1000-4999,Multiple times a day,Daily,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Availability
+Europe,500-999,A few times a week,,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Daily,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a month,Quarterly,Manual,TRUE,TRUE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,<10,,,,TRUE,FALSE,FALSE,FALSE,1,FALSE,TRUE,TRUE,
+Europe,50-99,Multiple times a day,Weekly,Manual,TRUE,FALSE,TRUE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,500-999,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,1000-4999,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Asia,1000-4999,Multiple times a day,Ad Hoc,Automated,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Multiple times a day,Manual,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Productivity
+Europe,1000-4999,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Weekly,Automated,TRUE,TRUE,FALSE,TRUE,2-5,FALSE,TRUE,TRUE,Deployment time
+Europe,1000-4999,Multiple times a day,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,
+Europe,10-49,Multiple times a day,,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,FALSE,TRUE,Cost
+Europe,>5000,A few times a week,Weekly,Hybrid,TRUE,TRUE,TRUE,FALSE,6-10,TRUE,TRUE,FALSE,Scalability
+Europe,50-99,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,1000-4999,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,FALSE,FALSE,TRUE,
+Europe,<10,Multiple times a day,Ad Hoc,Hybrid,TRUE,TRUE,FALSE,FALSE,1,TRUE,FALSE,FALSE,Scalability
+Europe,1000-4999,A few times a week,Weekly,Automated,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,50-99,A few times a week,Multiple times a day,Hybrid,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,Multiple times a day,Ad Hoc,Hybrid,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Scalability
+Europe,500-999,Multiple times a day,Daily,Automated,TRUE,FALSE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a week,Ad Hoc,Manual,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a week,Quarterly,Hybrid,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+Europe,500-999,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,FALSE,FALSE,
+Europe,>5000,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,TRUE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Scalability
+Europe,<10,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Asia,10-49,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,11-20,TRUE,TRUE,FALSE,
+Asia,>5000,Multiple times a day,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,A few times a week,Daily,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+North America,<10,A few times a week,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,2-5,FALSE,TRUE,TRUE,
+Asia,>5000,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,FALSE,
+Asia,<10,A few times a week,Daily,Manual,TRUE,FALSE,FALSE,FALSE,2-5,FALSE,FALSE,FALSE,Portability
+Asia,50-99,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,FALSE,FALSE,Cost
+North America,>5000,A few times a week,Ad Hoc,Manual,TRUE,TRUE,FALSE,FALSE,,TRUE,FALSE,FALSE,Scalability
+Asia,>5000,A few times a week,Weekly,Automated,TRUE,TRUE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+Asia,500-999,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,TRUE,FALSE,2-5,FALSE,TRUE,TRUE,
+North America,>5000,Multiple times a day,Monthly,Automated,TRUE,FALSE,TRUE,TRUE,50+,TRUE,TRUE,TRUE,
+North America,500-999,Multiple times a day,Weekly,Manual,TRUE,FALSE,FALSE,TRUE,2-5,FALSE,TRUE,FALSE,Scalability
+Asia,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,,Manual,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,A few times a week,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,
+Asia,10-49,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,TRUE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Australia and Oceania,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,1,TRUE,FALSE,TRUE,Scalability
+Europe,>5000,Multiple times a day,Quarterly,Hybrid,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Australia and Oceania,1000-4999,A few times a week,Weekly,Manual,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,FALSE,TRUE,Deployment time
+North America,50-99,Multiple times a day,Weekly,Automated,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Scalability
+North America,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,TRUE,FALSE,2-5,TRUE,FALSE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Monthly,Manual,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,
+Europe,>5000,Multiple times a day,Quarterly,Automated,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a week,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Cost
+Asia,50-99,A few times a quarter,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,FALSE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,FALSE,TRUE,
+North America,10-49,,Monthly,,TRUE,FALSE,FALSE,FALSE,,TRUE,FALSE,TRUE,Deployment time
+South and Central America,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,A few times a week,Weekly,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Scalability
+Europe,<10,A few times a week,Quarterly,Automated,TRUE,FALSE,FALSE,FALSE,1,TRUE,FALSE,TRUE,
+Africa,<10,A few times a week,Monthly,Automated,TRUE,TRUE,FALSE,FALSE,1,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,Multiple times a day,Daily,Manual,TRUE,TRUE,FALSE,FALSE,1,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,1,TRUE,TRUE,TRUE,
+Europe,500-999,Multiple times a day,Quarterly,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,FALSE,TRUE,Scalability
+Europe,1000-4999,Multiple times a day,Multiple times a day,Manual,TRUE,TRUE,TRUE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,500-999,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,A few times a week,Ad Hoc,Automated,TRUE,FALSE,FALSE,TRUE,1,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,,,TRUE,FALSE,TRUE,TRUE,2-5,FALSE,TRUE,TRUE,
+North America,>5000,A few times a week,Weekly,Hybrid,TRUE,TRUE,TRUE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,Multiple times a day,Quarterly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Asia,1000-4999,Multiple times a day,Daily,Hybrid,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,FALSE,
+North America,10-49,A few times a week,Monthly,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,FALSE,TRUE,TRUE,Deployment time
+South and Central America,>5000,A few times a week,Weekly,Manual,TRUE,FALSE,TRUE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,50-99,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Scalability
+North America,100-499,Multiple times a day,,Hybrid,TRUE,FALSE,FALSE,TRUE,11-20,TRUE,TRUE,TRUE,
+Asia,>5000,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,FALSE,TRUE,FALSE,
+North America,100-499,A few times a week,Weekly,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,FALSE,TRUE,Deployment time
+Europe,500-999,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,FALSE,TRUE,Deployment time
+Europe,1000-4999,Multiple times a day,Daily,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,FALSE,TRUE,Deployment time
+North America,50-99,,,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+North America,>5000,A few times a week,Weekly,Hybrid,TRUE,FALSE,TRUE,TRUE,11-20,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,A few times a month,Weekly,Manual,TRUE,TRUE,FALSE,FALSE,1,FALSE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,,Automated,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,,FALSE,TRUE,TRUE,
+North America,10-49,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,FALSE,Scalability
+North America,>5000,A few times a week,Monthly,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,Cost
+North America,1000-4999,,Quarterly,Hybrid,TRUE,TRUE,TRUE,FALSE,,TRUE,TRUE,FALSE,Portability
+North America,>5000,A few times a week,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,10-49,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+Europe,1000-4999,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a week,Daily,Automated,TRUE,FALSE,FALSE,TRUE,1,TRUE,TRUE,TRUE,Deployment time
+North America,500-999,Multiple times a day,,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,FALSE,TRUE,Deployment time
+Europe,1000-4999,A few times a week,Daily,Automated,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,
+North America,100-499,Multiple times a day,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Scalability
+North America,50-99,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Scalability
+Asia,1000-4999,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,1000-4999,A few times a week,Weekly,Automated,TRUE,FALSE,TRUE,TRUE,,TRUE,TRUE,TRUE,
+Europe,100-499,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,Multiple times a day,Monthly,Manual,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,FALSE,TRUE,Deployment time
+North America,100-499,A few times a quarter,Quarterly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+North America,>5000,A few times a week,Ad Hoc,Manual,TRUE,TRUE,TRUE,TRUE,2-5,FALSE,TRUE,FALSE,Cost
+North America,10-49,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,FALSE,TRUE,,TRUE,TRUE,FALSE,
+North America,10-49,A few times a week,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,FALSE,11-20,FALSE,TRUE,FALSE,
+Africa,100-499,Multiple times a day,Monthly,Automated,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,FALSE,FALSE,
+Europe,1000-4999,,Daily,Hybrid,TRUE,TRUE,TRUE,TRUE,6-10,TRUE,TRUE,FALSE,
+North America,100-499,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,FALSE,TRUE,Deployment time
+Asia,1000-4999,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,10-49,A few times a week,Multiple times a day,Hybrid,TRUE,FALSE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,A few times a week,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,TRUE,11-20,TRUE,TRUE,TRUE,
+Europe,>5000,A few times a week,Ad Hoc,Hybrid,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,500-999,Multiple times a day,Quarterly,Automated,TRUE,FALSE,FALSE,FALSE,6-10,FALSE,FALSE,TRUE,Deployment time
+Europe,50-99,A few times a week,Daily,Hybrid,TRUE,FALSE,FALSE,TRUE,1,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,A few times a month,Ad Hoc,Automated,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Availability
+North America,>5000,A few times a week,Quarterly,Hybrid,TRUE,FALSE,FALSE,FALSE,50+,FALSE,TRUE,TRUE,Deployment time
+North America,100-499,A few times a quarter,Ad Hoc,Manual,TRUE,FALSE,TRUE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,A few times a week,Weekly,Manual,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,FALSE,TRUE,Deployment time
+Europe,1000-4999,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,
+North America,>5000,Multiple times a day,Daily,Manual,TRUE,FALSE,FALSE,TRUE,50+,FALSE,TRUE,TRUE,Deployment time
+North America,10-49,A few times a week,Monthly,Manual,TRUE,TRUE,FALSE,FALSE,2-5,FALSE,TRUE,TRUE,
+Europe,>5000,A few times a month,Monthly,Hybrid,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Scalability
+Europe,>5000,A few times a week,,,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,>5000,Multiple times a day,Monthly,Automated,TRUE,FALSE,FALSE,TRUE,,TRUE,TRUE,FALSE,
+Europe,1000-4999,Multiple times a day,Daily,Hybrid,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,TRUE,FALSE,Scalability
+North America,>5000,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,FALSE,FALSE,Productivity
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,TRUE,FALSE,Scalability
+North America,1000-4999,A few times a week,Ad Hoc,Hybrid,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,50-99,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,11-20,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Africa,>5000,,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+North America,>5000,A few times a month,Quarterly,Manual,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,,Weekly,Hybrid,TRUE,TRUE,TRUE,FALSE,2-5,FALSE,FALSE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,FALSE,TRUE,21-50,TRUE,TRUE,TRUE,Scalability
+North America,10-49,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,FALSE,1,TRUE,FALSE,FALSE,Portability
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,Scalability
+North America,>5000,A few times a month,Weekly,Hybrid,TRUE,TRUE,TRUE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,FALSE,TRUE,TRUE,Deployment time
+Asia,>5000,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+North America,1000-4999,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,,TRUE,FALSE,TRUE,Portability
+North America,500-999,A few times a week,Monthly,Hybrid,TRUE,TRUE,TRUE,TRUE,6-10,FALSE,TRUE,TRUE,Deployment time
+North America,10-49,A few times a week,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,<10,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,FALSE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Weekly,Automated,TRUE,FALSE,TRUE,TRUE,11-20,TRUE,TRUE,TRUE,
+Europe,10-49,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,21-50,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,TRUE,,FALSE,TRUE,TRUE,
+Europe,>5000,A few times a week,Quarterly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+North America,100-499,A few times a week,Daily,Manual,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+North America,>5000,A few times a week,Ad Hoc,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,A few times a month,Monthly,Hybrid,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE,
+Europe,100-499,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,
+Europe,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,FALSE,Availability
+Asia,<10,Multiple times a day,Weekly,Manual,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,Multiple times a day,Monthly,Manual,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Weekly,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a quarter,Quarterly,Manual,TRUE,FALSE,FALSE,FALSE,50+,FALSE,TRUE,TRUE,Portability
+North America,1000-4999,A few times a week,Weekly,Automated,TRUE,FALSE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Cost
+North America,>5000,A few times a week,Quarterly,Hybrid,TRUE,FALSE,TRUE,FALSE,21-50,TRUE,TRUE,FALSE,Productivity
+North America,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a quarter,Quarterly,Hybrid,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,Cost
+North America,1000-4999,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,FALSE,TRUE,Deployment time
+Asia,>5000,,Quarterly,Automated,TRUE,TRUE,TRUE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Weekly,Manual,TRUE,TRUE,FALSE,FALSE,11-20,FALSE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Weekly,Automated,TRUE,TRUE,TRUE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Quarterly,Hybrid,TRUE,TRUE,TRUE,FALSE,11-20,TRUE,TRUE,TRUE,Availability
+North America,>5000,A few times a week,,,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE,TRUE,
+North America,>5000,A few times a week,,Hybrid,TRUE,FALSE,TRUE,FALSE,1,TRUE,TRUE,TRUE,Deployment time
+North America,<10,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,1,FALSE,FALSE,TRUE,Deployment time
+North America,1000-4999,Multiple times a day,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,FALSE,TRUE,Deployment time
+Europe,1000-4999,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+North America,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,50-99,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,1,TRUE,FALSE,TRUE,
+North America,>5000,A few times a week,Weekly,Automated,TRUE,TRUE,TRUE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Australia and Oceania,>5000,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,TRUE,TRUE,6-10,FALSE,TRUE,TRUE,
+Europe,>5000,A few times a week,Daily,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,FALSE,TRUE,Portability
+North America,>5000,A few times a week,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Asia,>5000,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,TRUE,11-20,TRUE,TRUE,TRUE,Deployment time
+Europe,50-99,Multiple times a day,Daily,Hybrid,TRUE,FALSE,FALSE,FALSE,1,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,,Automated,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Asia,500-999,A few times a quarter,Multiple times a day,Automated,TRUE,TRUE,FALSE,TRUE,2-5,FALSE,TRUE,TRUE,
+Europe,>5000,Multiple times a day,Multiple times a day,Manual,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,1000-4999,Multiple times a day,Quarterly,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+South and Central America,<10,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,
+South and Central America,100-499,Multiple times a day,Daily,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,,,TRUE,FALSE,TRUE,TRUE,,TRUE,TRUE,TRUE,Cost
+North America,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,FALSE,
+Europe,>5000,Multiple times a day,Quarterly,,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,FALSE,Scalability
+North America,100-499,A few times a week,,,TRUE,TRUE,TRUE,FALSE,,TRUE,FALSE,TRUE,Deployment time
+North America,>5000,A few times a week,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,1000-4999,A few times a week,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,21-50,TRUE,TRUE,TRUE,Cost
+Europe,1000-4999,,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,,TRUE,FALSE,TRUE,Deployment time
+Australia and Oceania,<10,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,21-50,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a quarter,Quarterly,Automated,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,A few times a quarter,Quarterly,Hybrid,TRUE,FALSE,FALSE,TRUE,,FALSE,TRUE,TRUE,
+South and Central America,>5000,Multiple times a day,Weekly,Automated,TRUE,FALSE,TRUE,TRUE,1,TRUE,TRUE,TRUE,
+North America,500-999,Multiple times a day,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,A few times a week,,,TRUE,FALSE,FALSE,TRUE,,FALSE,TRUE,TRUE,
+Europe,100-499,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,FALSE,
+North America,>5000,A few times a week,Quarterly,Hybrid,TRUE,TRUE,FALSE,FALSE,,TRUE,FALSE,TRUE,Deployment time
+Europe,<10,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,
+North America,100-499,Multiple times a day,Ad Hoc,Hybrid,TRUE,TRUE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Weekly,Automated,TRUE,TRUE,TRUE,FALSE,50+,TRUE,TRUE,TRUE,Scalability
+Asia,1000-4999,A few times a quarter,Quarterly,Manual,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,FALSE,TRUE,Scalability
+North America,>5000,A few times a week,Ad Hoc,Hybrid,TRUE,TRUE,FALSE,TRUE,21-50,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a month,Weekly,Automated,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,FALSE,TRUE,
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Daily,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Cost
+South and Central America,>5000,Multiple times a day,Monthly,Automated,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Productivity
+Europe,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,
+North America,>5000,A few times a week,Weekly,Hybrid,TRUE,TRUE,FALSE,TRUE,1,FALSE,FALSE,FALSE,
+Europe,>5000,A few times a quarter,Monthly,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,,,,TRUE,TRUE,TRUE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,50-99,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,<10,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,TRUE,FALSE,2-5,TRUE,TRUE,FALSE,Scalability
+Asia,>5000,A few times a week,Weekly,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,FALSE,
+Europe,10-49,A few times a week,Weekly,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,FALSE,
+North America,100-499,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,,TRUE,FALSE,TRUE,Deployment time
+North America,500-999,A few times a week,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE,FALSE,Cost
+North America,>5000,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,50+,FALSE,TRUE,TRUE,Deployment time
+North America,10-49,,Weekly,Manual,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Cost
+Europe,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,TRUE,FALSE,1,TRUE,FALSE,FALSE,
+Asia,1000-4999,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Monthly,Automated,TRUE,TRUE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+Europe,500-999,Multiple times a day,Ad Hoc,Automated,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Quarterly,Automated,TRUE,FALSE,FALSE,TRUE,,TRUE,TRUE,TRUE,
+North America,>5000,Multiple times a day,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Productivity
+Asia,>5000,,,,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+North America,>5000,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,FALSE,
+Europe,1000-4999,A few times a week,Ad Hoc,Hybrid,TRUE,TRUE,TRUE,FALSE,2-5,FALSE,TRUE,FALSE,Productivity
+North America,500-999,,,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Africa,<10,A few times a week,Weekly,Hybrid,TRUE,TRUE,TRUE,FALSE,6-10,FALSE,TRUE,FALSE,Scalability
+North America,1000-4999,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,21-50,TRUE,TRUE,TRUE,
+North America,>5000,A few times a week,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Scalability
+Europe,100-499,Multiple times a day,Daily,Automated,TRUE,FALSE,TRUE,FALSE,,TRUE,FALSE,FALSE,Portability
+Europe,1000-4999,Multiple times a day,Daily,Hybrid,TRUE,FALSE,FALSE,FALSE,1,TRUE,TRUE,FALSE,Scalability
+Europe,100-499,A few times a week,Daily,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+North America,<10,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,6-10,FALSE,TRUE,FALSE,Productivity
+Europe,100-499,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+South and Central America,100-499,Multiple times a day,,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,TRUE,TRUE,6-10,TRUE,FALSE,TRUE,Deployment time
+Europe,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Cost
+Asia,50-99,A few times a week,Weekly,Manual,TRUE,FALSE,TRUE,FALSE,2-5,FALSE,TRUE,FALSE,
+North America,>5000,A few times a week,Weekly,Manual,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,FALSE,Cost
+North America,500-999,Multiple times a day,Quarterly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,FALSE,TRUE,
+Europe,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,<10,Multiple times a day,Multiple times a day,Manual,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+North America,>5000,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,500-999,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,1,TRUE,FALSE,TRUE,Deployment time
+Asia,100-499,Multiple times a day,Monthly,Automated,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,TRUE,6-10,TRUE,FALSE,TRUE,Deployment time
+Asia,<10,A few times a week,Monthly,Manual,TRUE,TRUE,FALSE,FALSE,1,TRUE,TRUE,FALSE,Portability
+North America,1000-4999,,Weekly,Manual,TRUE,TRUE,TRUE,TRUE,21-50,FALSE,TRUE,FALSE,
+Asia,>5000,A few times a week,Weekly,Automated,TRUE,FALSE,TRUE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,Multiple times a day,Ad Hoc,Hybrid,TRUE,TRUE,TRUE,FALSE,,FALSE,TRUE,TRUE,
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,FALSE,
+Europe,50-99,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,1000-4999,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,A few times a month,Ad Hoc,Automated,TRUE,TRUE,FALSE,TRUE,11-20,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,FALSE,TRUE,TRUE,Scalability
+North America,>5000,A few times a month,Monthly,Hybrid,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Ad Hoc,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Ad Hoc,Manual,TRUE,TRUE,FALSE,TRUE,,TRUE,TRUE,TRUE,Portability
+Europe,10-49,Multiple times a day,Daily,Hybrid,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a month,Ad Hoc,Automated,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,<10,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,FALSE,TRUE,TRUE,Productivity
+North America,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,100-499,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,<10,Multiple times a day,Ad Hoc,Automated,TRUE,FALSE,TRUE,TRUE,1,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,100-499,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Cost
+Europe,1000-4999,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a quarter,Ad Hoc,Automated,TRUE,FALSE,TRUE,TRUE,50+,TRUE,TRUE,TRUE,
+North America,10-49,Multiple times a day,Daily,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,50-99,Multiple times a day,Monthly,Manual,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Scalability
+Asia,>5000,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,TRUE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,TRUE,FALSE,,FALSE,TRUE,TRUE,
+Europe,<10,A few times a week,Monthly,Automated,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,,,Hybrid,TRUE,TRUE,TRUE,TRUE,1,TRUE,FALSE,TRUE,
+North America,>5000,Multiple times a day,Monthly,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,A few times a month,Daily,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,<10,Multiple times a day,Daily,Hybrid,TRUE,TRUE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,FALSE,TRUE,Deployment time
+Asia,>5000,,,,TRUE,TRUE,TRUE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,A few times a week,Quarterly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,100-499,A few times a month,Monthly,Hybrid,TRUE,FALSE,TRUE,FALSE,11-20,FALSE,TRUE,FALSE,
+North America,100-499,A few times a week,Daily,Hybrid,TRUE,FALSE,FALSE,TRUE,1,TRUE,TRUE,TRUE,Deployment time
+Europe,500-999,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,500-999,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,FALSE,FALSE,TRUE,Deployment time
+Asia,50-99,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Cost
+Europe,1000-4999,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,FALSE,TRUE,Scalability
+North America,100-499,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,Scalability
+Europe,50-99,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,TRUE,TRUE,1,TRUE,FALSE,FALSE,
+Asia,<10,Multiple times a day,Monthly,Manual,TRUE,FALSE,TRUE,FALSE,2-5,FALSE,TRUE,FALSE,Cost
+Europe,>5000,A few times a week,Weekly,Manual,TRUE,TRUE,FALSE,TRUE,2-5,FALSE,TRUE,FALSE,
+North America,1000-4999,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,<10,Multiple times a day,Daily,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Scalability
+North America,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+Europe,500-999,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+South and Central America,50-99,A few times a month,Ad Hoc,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,FALSE,FALSE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Daily,Automated,TRUE,TRUE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Weekly,Automated,TRUE,TRUE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+Europe,<10,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,A few times a week,Daily,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,500-999,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,21-50,TRUE,TRUE,TRUE,Deployment time
+Africa,500-999,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,
+North America,1000-4999,A few times a week,Ad Hoc,Manual,TRUE,FALSE,FALSE,TRUE,6-10,FALSE,TRUE,TRUE,
+Europe,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE,FALSE,Scalability
+Europe,10-49,A few times a week,Monthly,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,Scalability
+Europe,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,1,TRUE,FALSE,FALSE,
+North America,<10,A few times a quarter,Quarterly,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,FALSE,FALSE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE,TRUE,
+Europe,1000-4999,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,1,TRUE,FALSE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,>5000,Multiple times a day,Quarterly,,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE,TRUE,Portability
+North America,>5000,A few times a week,Monthly,Automated,TRUE,TRUE,FALSE,FALSE,11-20,TRUE,TRUE,FALSE,Scalability
+North America,>5000,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,FALSE,11-20,FALSE,TRUE,TRUE,
+North America,10-49,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,1,TRUE,FALSE,TRUE,Availability
+North America,100-499,A few times a week,Monthly,Hybrid,TRUE,TRUE,TRUE,TRUE,1,TRUE,FALSE,FALSE,Portability
+North America,1000-4999,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,1,TRUE,TRUE,FALSE,
+Asia,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,FALSE,Cost
+Europe,>5000,A few times a month,Weekly,Hybrid,TRUE,TRUE,FALSE,TRUE,11-20,TRUE,TRUE,FALSE,Scalability
+Europe,>5000,Multiple times a day,Weekly,Automated,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,FALSE,TRUE,
+Europe,>5000,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a week,Multiple times a day,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,
+North America,>5000,Multiple times a day,Monthly,Automated,TRUE,TRUE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,
+North America,100-499,Multiple times a day,Multiple times a day,Manual,TRUE,TRUE,TRUE,TRUE,11-20,TRUE,FALSE,FALSE,
+Europe,100-499,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+North America,50-99,Multiple times a day,Monthly,Manual,TRUE,TRUE,TRUE,FALSE,2-5,TRUE,TRUE,FALSE,
+North America,>5000,Multiple times a day,Weekly,Automated,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,FALSE,
+Asia,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,1,TRUE,TRUE,FALSE,Cost
+North America,>5000,A few times a week,Weekly,Hybrid,TRUE,TRUE,TRUE,TRUE,,TRUE,FALSE,FALSE,Productivity
+North America,500-999,A few times a week,Weekly,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,Scalability
+North America,>5000,A few times a week,Weekly,Automated,TRUE,TRUE,TRUE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,A few times a week,Daily,Hybrid,TRUE,FALSE,TRUE,FALSE,2-5,TRUE,FALSE,TRUE,
+North America,>5000,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,TRUE,TRUE,11-20,FALSE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,>5000,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,FALSE,1,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,Daily,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+North America,50-99,A few times a quarter,Quarterly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,FALSE,
+North America,10-49,Multiple times a day,Weekly,Manual,TRUE,TRUE,FALSE,FALSE,1,TRUE,FALSE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,Scalability
+Europe,>5000,Multiple times a day,Ad Hoc,Automated,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,TRUE,TRUE,50+,TRUE,TRUE,TRUE,Scalability
+North America,>5000,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,TRUE,11-20,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Daily,Automated,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,
+North America,>5000,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,TRUE,TRUE,11-20,FALSE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,FALSE,1,TRUE,TRUE,TRUE,Deployment time
+North America,10-49,A few times a month,Monthly,Manual,TRUE,FALSE,FALSE,FALSE,2-5,FALSE,TRUE,TRUE,Deployment time
+Europe,<10,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,TRUE,TRUE,21-50,TRUE,TRUE,TRUE,
+Europe,1000-4999,Multiple times a day,Daily,Hybrid,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,FALSE,TRUE,Deployment time
+Asia,100-499,Multiple times a day,Daily,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,FALSE,TRUE,Deployment time
+Asia,100-499,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Ad Hoc,Manual,TRUE,FALSE,FALSE,FALSE,1,TRUE,FALSE,TRUE,Deployment time
+Asia,<10,Multiple times a day,Daily,Automated,TRUE,FALSE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,100-499,A few times a week,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,
+Europe,100-499,Multiple times a day,Daily,Manual,TRUE,FALSE,TRUE,TRUE,1,TRUE,FALSE,TRUE,
+North America,10-49,A few times a week,Ad Hoc,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,50-99,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,2-5,FALSE,TRUE,FALSE,
+North America,>5000,Multiple times a day,Weekly,Automated,TRUE,TRUE,TRUE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,Multiple times a day,Ad Hoc,Hybrid,TRUE,TRUE,TRUE,FALSE,21-50,FALSE,FALSE,TRUE,
+Europe,10-49,A few times a month,,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+North America,>5000,A few times a month,Daily,Hybrid,TRUE,FALSE,TRUE,TRUE,11-20,TRUE,FALSE,TRUE,Deployment time
+North America,100-499,A few times a week,Weekly,Manual,TRUE,FALSE,FALSE,FALSE,,TRUE,FALSE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Ad Hoc,Manual,TRUE,FALSE,TRUE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Multiple times a day,Manual,TRUE,TRUE,FALSE,TRUE,11-20,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,
+North America,10-49,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,1,TRUE,TRUE,TRUE,Scalability
+North America,100-499,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,TRUE,FALSE,6-10,TRUE,TRUE,FALSE,Availability
+Europe,<10,A few times a week,Monthly,Automated,TRUE,FALSE,FALSE,TRUE,,FALSE,TRUE,FALSE,
+Europe,<10,,,Hybrid,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,TRUE,FALSE,Portability
+Europe,500-999,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,TRUE,TRUE,2-5,FALSE,TRUE,TRUE,Deployment time
+North America,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,1,TRUE,TRUE,TRUE,Scalability
+Europe,<10,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE,TRUE,Portability
+Europe,100-499,A few times a week,Ad Hoc,Hybrid,TRUE,TRUE,FALSE,TRUE,1,TRUE,TRUE,FALSE,Scalability
+Europe,500-999,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,FALSE,Availability
+Europe,100-499,Multiple times a day,Daily,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a week,Daily,Automated,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,
+Europe,10-49,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,FALSE,TRUE,Deployment time
+Asia,500-999,A few times a week,Monthly,Automated,TRUE,TRUE,FALSE,FALSE,11-20,FALSE,TRUE,TRUE,
+Europe,1000-4999,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Scalability
+Europe,500-999,A few times a week,Daily,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,100-499,Multiple times a day,Weekly,Automated,TRUE,TRUE,TRUE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,,Weekly,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,A few times a week,Ad Hoc,Manual,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,
+Europe,1000-4999,Multiple times a day,,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,FALSE,TRUE,FALSE,
+Asia,>5000,A few times a week,Quarterly,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,,Quarterly,Hybrid,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE,Availability
+North America,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,FALSE,Scalability
+Asia,100-499,A few times a week,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,Scalability
+Asia,50-99,A few times a week,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,FALSE,FALSE,Scalability
+Asia,>5000,Multiple times a day,Daily,Hybrid,TRUE,TRUE,FALSE,TRUE,6-10,TRUE,TRUE,FALSE,
+Asia,>5000,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,
+Asia,<10,Multiple times a day,Weekly,Manual,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,FALSE,TRUE,
+North America,50-99,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+North America,1000-4999,Multiple times a day,Ad Hoc,Hybrid,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,TRUE,FALSE,
+North America,1000-4999,A few times a week,Weekly,Manual,TRUE,TRUE,FALSE,FALSE,1,TRUE,FALSE,TRUE,Deployment time
+North America,>5000,A few times a week,Ad Hoc,Hybrid,TRUE,TRUE,TRUE,TRUE,50+,TRUE,TRUE,TRUE,
+Asia,500-999,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,TRUE,FALSE,,FALSE,TRUE,FALSE,
+Europe,1000-4999,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,11-20,TRUE,TRUE,TRUE,Deployment time
+Asia,500-999,Multiple times a day,Quarterly,Hybrid,TRUE,FALSE,FALSE,TRUE,,FALSE,TRUE,TRUE,
+North America,10-49,Multiple times a day,Daily,Automated,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,FALSE,TRUE,Deployment time
+South and Central America,50-99,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,FALSE,TRUE,Deployment time
+South and Central America,500-999,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,FALSE,TRUE,Deployment time
+Europe,50-99,Multiple times a day,Monthly,Manual,TRUE,FALSE,FALSE,FALSE,1,FALSE,FALSE,TRUE,
+North America,10-49,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,FALSE,TRUE,Deployment time
+North America,1000-4999,A few times a month,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,FALSE,TRUE,TRUE,Scalability
+Europe,500-999,A few times a week,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Australia and Oceania,50-99,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a week,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,FALSE,TRUE,Cost
+Europe,50-99,A few times a week,,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,FALSE,TRUE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,,Automated,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Cost
+Europe,1000-4999,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,A few times a week,Weekly,Automated,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,<10,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,FALSE,TRUE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,
+South and Central America,>5000,,Ad Hoc,Manual,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+North America,10-49,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,Scalability
+North America,100-499,A few times a week,Weekly,Automated,TRUE,TRUE,FALSE,TRUE,1,TRUE,TRUE,FALSE,
+Europe,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,TRUE,TRUE,,TRUE,TRUE,TRUE,Deployment time
+Europe,500-999,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,TRUE,FALSE,11-20,TRUE,TRUE,TRUE,Cost
+Europe,100-499,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,1,TRUE,FALSE,TRUE,Deployment time
+North America,100-499,A few times a week,Daily,Hybrid,TRUE,TRUE,FALSE,FALSE,1,TRUE,TRUE,TRUE,Scalability
+Europe,100-499,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,
+Europe,100-499,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+South and Central America,>5000,A few times a week,Weekly,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,FALSE,TRUE,TRUE,
+Europe,1000-4999,Multiple times a day,Quarterly,Manual,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,FALSE,TRUE,Deployment time
+South and Central America,500-999,Multiple times a day,,Hybrid,TRUE,TRUE,FALSE,TRUE,1,TRUE,FALSE,TRUE,Scalability
+Asia,50-99,A few times a week,Monthly,Manual,TRUE,TRUE,FALSE,FALSE,2-5,FALSE,FALSE,TRUE,Availability
+Asia,50-99,A few times a week,Monthly,Manual,TRUE,TRUE,FALSE,FALSE,2-5,FALSE,FALSE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,1,TRUE,FALSE,TRUE,Deployment time
+Europe,>5000,A few times a week,Multiple times a day,Automated,TRUE,TRUE,FALSE,FALSE,6-10,FALSE,TRUE,TRUE,
+North America,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a quarter,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Ad Hoc,Automated,TRUE,TRUE,TRUE,TRUE,6-10,TRUE,TRUE,TRUE,Scalability
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,Multiple times a day,Monthly,Manual,TRUE,TRUE,FALSE,FALSE,,FALSE,FALSE,TRUE,
+Asia,>5000,A few times a month,Quarterly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,100-499,A few times a week,Quarterly,Hybrid,TRUE,FALSE,TRUE,TRUE,11-20,TRUE,FALSE,TRUE,Deployment time
+Europe,50-99,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,1,TRUE,FALSE,TRUE,Deployment time
+Asia,50-99,A few times a month,Monthly,Hybrid,TRUE,FALSE,TRUE,FALSE,1,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,1000-4999,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,TRUE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,TRUE,FALSE,,FALSE,TRUE,TRUE,
+North America,100-499,Multiple times a day,Quarterly,Hybrid,TRUE,TRUE,FALSE,TRUE,,TRUE,FALSE,TRUE,Scalability
+Europe,10-49,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,21-50,FALSE,TRUE,FALSE,
+Asia,>5000,Multiple times a day,Daily,Hybrid,TRUE,TRUE,TRUE,TRUE,11-20,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+Europe,500-999,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE,Deployment time
+Asia,1000-4999,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE,TRUE,
+Europe,100-499,Multiple times a day,Daily,Hybrid,TRUE,FALSE,TRUE,TRUE,11-20,TRUE,TRUE,FALSE,
+North America,50-99,Multiple times a day,Daily,Automated,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+South and Central America,>5000,A few times a week,Daily,Automated,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+Europe,<10,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,1,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,A few times a month,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,
+Asia,>5000,A few times a quarter,Multiple times a day,Hybrid,TRUE,FALSE,TRUE,FALSE,11-20,TRUE,TRUE,TRUE,Scalability
+Europe,100-499,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,500-999,Multiple times a day,Daily,Automated,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,
+Europe,10-49,A few times a week,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Asia,100-499,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,TRUE,TRUE,1,TRUE,FALSE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Weekly,Automated,TRUE,FALSE,TRUE,TRUE,11-20,TRUE,TRUE,TRUE,Scalability
+Asia,50-99,Multiple times a day,Weekly,Automated,TRUE,TRUE,TRUE,FALSE,2-5,TRUE,FALSE,TRUE,Deployment time
+South and Central America,<10,A few times a week,Weekly,Automated,TRUE,TRUE,FALSE,TRUE,1,TRUE,FALSE,TRUE,
+Australia and Oceania,>5000,Multiple times a day,Weekly,Manual,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE,Scalability
+North America,>5000,A few times a month,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,50-99,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,,TRUE,FALSE,TRUE,Portability
+North America,50-99,A few times a week,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,1,TRUE,TRUE,TRUE,Deployment time
+South and Central America,<10,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,<10,A few times a week,Daily,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,FALSE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Daily,Automated,TRUE,TRUE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,
+North America,>5000,Multiple times a day,Ad Hoc,Hybrid,TRUE,TRUE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,500-999,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,FALSE,TRUE,Scalability
+North America,10-49,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,FALSE,TRUE,TRUE,Productivity
+North America,<10,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,FALSE,Cost
+Asia,50-99,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,TRUE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Availability
+Europe,10-49,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,1,TRUE,TRUE,FALSE,
+North America,>5000,A few times a week,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,FALSE,TRUE,Deployment time
+North America,1000-4999,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,TRUE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,100-499,A few times a week,Weekly,Hybrid,TRUE,TRUE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,TRUE,TRUE,11-20,TRUE,TRUE,FALSE,Scalability
+Europe,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,Multiple times a day,Monthly,,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,500-999,Multiple times a day,Quarterly,Hybrid,TRUE,TRUE,FALSE,TRUE,1,TRUE,TRUE,TRUE,
+North America,>5000,A few times a week,Weekly,Manual,TRUE,TRUE,TRUE,TRUE,2-5,FALSE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,TRUE,TRUE,6-10,TRUE,FALSE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,TRUE,TRUE,1,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,A few times a quarter,Quarterly,Manual,TRUE,TRUE,TRUE,TRUE,1,TRUE,FALSE,TRUE,
+Europe,100-499,Multiple times a day,Daily,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Scalability
+Asia,50-99,A few times a week,,,TRUE,FALSE,FALSE,TRUE,,TRUE,TRUE,FALSE,
+Europe,>5000,Multiple times a day,Ad Hoc,Automated,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,FALSE,FALSE,Scalability
+Europe,50-99,A few times a week,Weekly,Automated,TRUE,TRUE,FALSE,TRUE,50+,TRUE,FALSE,FALSE,Cost
+North America,100-499,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Quarterly,Manual,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,,,TRUE,TRUE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Cost
+North America,>5000,A few times a month,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,,FALSE,TRUE,FALSE,
+Europe,>5000,A few times a month,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,Productivity
+North America,>5000,Multiple times a day,Monthly,Automated,TRUE,TRUE,FALSE,FALSE,,TRUE,FALSE,TRUE,Deployment time
+Australia and Oceania,>5000,A few times a week,Weekly,Manual,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,FALSE,TRUE,Deployment time
+Europe,<10,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Scalability
+Europe,1000-4999,A few times a month,Quarterly,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,A few times a month,,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,>5000,A few times a week,,,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,FALSE,TRUE,Portability
+Europe,10-49,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Scalability
+Europe,>5000,A few times a month,Daily,Automated,TRUE,FALSE,TRUE,TRUE,,FALSE,TRUE,FALSE,
+North America,>5000,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Weekly,Manual,TRUE,TRUE,FALSE,TRUE,,FALSE,TRUE,TRUE,
+North America,>5000,A few times a quarter,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Scalability
+Europe,10-49,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Availability
+North America,1000-4999,Multiple times a day,Daily,Hybrid,TRUE,FALSE,TRUE,FALSE,11-20,TRUE,TRUE,FALSE,
+South and Central America,10-49,A few times a week,Weekly,Automated,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,FALSE,FALSE,
+Europe,10-49,Multiple times a day,,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,10-49,A few times a week,Ad Hoc,Manual,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Asia,50-99,Multiple times a day,Daily,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,
+Europe,>5000,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,10-49,A few times a week,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,50-99,Multiple times a day,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,50-99,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,FALSE,TRUE,
+Europe,<10,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,FALSE,Availability
+North America,>5000,A few times a week,Ad Hoc,Manual,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE,FALSE,
+Europe,1000-4999,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,,TRUE,FALSE,FALSE,
+Europe,50-99,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,A few times a week,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,FALSE,TRUE,TRUE,
+Europe,100-499,A few times a week,Weekly,Hybrid,TRUE,FALSE,TRUE,TRUE,6-10,TRUE,FALSE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Monthly,Manual,TRUE,TRUE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Cost
+Asia,10-49,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,FALSE,TRUE,1,TRUE,FALSE,TRUE,
+Europe,10-49,A few times a week,,,TRUE,FALSE,TRUE,FALSE,,FALSE,FALSE,TRUE,Deployment time
+Europe,50-99,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Asia,50-99,Multiple times a day,Monthly,Manual,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,
+Europe,50-99,A few times a week,Quarterly,,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,Multiple times a day,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Asia,<10,Multiple times a day,Weekly,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,100-499,Multiple times a day,Monthly,Manual,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,
+Asia,100-499,A few times a week,Monthly,Manual,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,
+Asia,50-99,,Monthly,Manual,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,
+Europe,1000-4999,A few times a week,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,6-10,FALSE,FALSE,FALSE,
+Asia,50-99,Multiple times a day,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,100-499,A few times a month,Monthly,Manual,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,
+Asia,>5000,A few times a week,Ad Hoc,Hybrid,TRUE,TRUE,TRUE,FALSE,6-10,TRUE,TRUE,FALSE,
+Asia,50-99,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,FALSE,
+Asia,100-499,Multiple times a day,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,FALSE,
+Asia,100-499,Multiple times a day,Monthly,Manual,TRUE,TRUE,FALSE,FALSE,21-50,FALSE,TRUE,FALSE,
+Asia,50-99,Multiple times a day,Daily,Manual,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,Multiple times a day,Monthly,Manual,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,
+North America,1000-4999,,Weekly,Hybrid,TRUE,TRUE,TRUE,TRUE,50+,TRUE,TRUE,TRUE,
+Asia,50-99,,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,A few times a week,Daily,Hybrid,TRUE,TRUE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,
+Europe,50-99,A few times a week,Monthly,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,FALSE,TRUE,TRUE,Availability
+Asia,50-99,Multiple times a day,Monthly,Automated,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE,FALSE,Portability
+Asia,100-499,Multiple times a day,Monthly,Manual,TRUE,FALSE,FALSE,FALSE,1,TRUE,TRUE,FALSE,
+Europe,100-499,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,FALSE,TRUE,21-50,TRUE,TRUE,TRUE,Deployment time
+Asia,500-999,A few times a week,Monthly,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,
+Asia,>5000,A few times a quarter,Daily,Manual,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,
+North America,10-49,Multiple times a day,Daily,Hybrid,TRUE,FALSE,FALSE,FALSE,1,TRUE,FALSE,TRUE,Availability
+Asia,<10,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,<10,A few times a week,Monthly,Hybrid,TRUE,TRUE,FALSE,FALSE,1,FALSE,FALSE,TRUE,Deployment time
+North America,>5000,A few times a month,Quarterly,Hybrid,TRUE,FALSE,FALSE,TRUE,50+,FALSE,TRUE,TRUE,Deployment time
+North America,100-499,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Cost
+North America,<10,A few times a month,,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,Scalability
+North America,10-49,Multiple times a day,Monthly,Automated,TRUE,TRUE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,100-499,Multiple times a day,Daily,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,FALSE,TRUE,Deployment time
+Asia,10-49,Multiple times a day,Quarterly,Hybrid,TRUE,FALSE,TRUE,FALSE,,FALSE,FALSE,TRUE,Portability
+Asia,100-499,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,
+Europe,100-499,A few times a week,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,1,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,FALSE,TRUE,TRUE,
+Europe,>5000,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+South and Central America,100-499,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,TRUE,FALSE,2-5,TRUE,TRUE,FALSE,
+North America,50-99,A few times a week,,Manual,TRUE,FALSE,FALSE,FALSE,6-10,FALSE,TRUE,TRUE,Deployment time
+North America,10-49,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Quarterly,Hybrid,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE,TRUE,Portability
+Asia,100-499,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE,FALSE,Scalability
+Europe,10-49,,,,TRUE,FALSE,FALSE,FALSE,1,FALSE,TRUE,FALSE,Scalability
+North America,1000-4999,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,
+South and Central America,>5000,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,TRUE,1,FALSE,FALSE,TRUE,Scalability
+Europe,10-49,A few times a week,Weekly,Automated,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,FALSE,TRUE,Deployment time
+North America,100-499,Multiple times a day,Quarterly,Manual,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE,TRUE,Deployment time
+South and Central America,<10,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,1,FALSE,TRUE,TRUE,Scalability
+South and Central America,1000-4999,A few times a week,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,TRUE,,FALSE,TRUE,TRUE,Deployment time
+Europe,50-99,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,1,TRUE,TRUE,TRUE,Scalability
+Europe,100-499,Multiple times a day,Daily,Automated,TRUE,TRUE,TRUE,FALSE,1,TRUE,FALSE,FALSE,Scalability
+North America,50-99,Multiple times a day,Quarterly,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,FALSE,TRUE,TRUE,Deployment time
+Europe,10-49,Multiple times a day,Ad Hoc,Hybrid,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE,
+North America,10-49,Multiple times a day,Ad Hoc,Manual,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,FALSE,
+Europe,100-499,Multiple times a day,Multiple times a day,Manual,TRUE,FALSE,FALSE,TRUE,11-20,TRUE,TRUE,TRUE,Deployment time
+Asia,1000-4999,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Asia,50-99,A few times a week,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,50-99,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,TRUE,FALSE,6-10,TRUE,TRUE,TRUE,
+Europe,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,
+Europe,10-49,A few times a month,Weekly,Hybrid,TRUE,FALSE,TRUE,FALSE,6-10,TRUE,FALSE,FALSE,
+Europe,10-49,A few times a month,Monthly,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,,Ad Hoc,Manual,TRUE,FALSE,FALSE,TRUE,2-5,FALSE,FALSE,TRUE,Deployment time
+Europe,10-49,Multiple times a day,Weekly,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Weekly,Manual,TRUE,TRUE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Weekly,Automated,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE,TRUE,
+Asia,>5000,A few times a week,Daily,Automated,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,
+Asia,>5000,A few times a week,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,,,Automated,TRUE,TRUE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Asia,>5000,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,50+,FALSE,TRUE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Daily,Automated,TRUE,TRUE,FALSE,FALSE,6-10,FALSE,TRUE,TRUE,
+Asia,>5000,A few times a week,Daily,Hybrid,TRUE,TRUE,TRUE,FALSE,,TRUE,TRUE,TRUE,Availability
+Asia,>5000,Multiple times a day,Weekly,Automated,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,FALSE,
+Asia,>5000,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Multiple times a day,Manual,TRUE,TRUE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Daily,Automated,TRUE,TRUE,TRUE,FALSE,50+,TRUE,TRUE,TRUE,Scalability
+Asia,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,
+Asia,>5000,Multiple times a day,Weekly,Manual,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,FALSE,TRUE,TRUE,
+Asia,>5000,A few times a week,Daily,Automated,TRUE,TRUE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,50+,TRUE,FALSE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,A few times a week,,,TRUE,FALSE,FALSE,TRUE,2-5,FALSE,TRUE,TRUE,Deployment time
+North America,>5000,,,,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+North America,100-499,A few times a week,Weekly,Manual,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,<10,A few times a week,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+North America,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,TRUE,50+,TRUE,TRUE,FALSE,Scalability
+North America,50-99,A few times a quarter,Monthly,Hybrid,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,TRUE,FALSE,Productivity
+North America,>5000,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,FALSE,
+North America,10-49,A few times a week,,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,>5000,,,,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,FALSE,Portability
+Europe,>5000,A few times a week,Monthly,Automated,TRUE,FALSE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,10-49,,,,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Scalability
+North America,50-99,A few times a week,,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Scalability
+Australia and Oceania,10-49,,,,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,FALSE,FALSE,Scalability
+Europe,1000-4999,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,FALSE,Scalability
+Europe,500-999,A few times a month,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,10-49,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,1,TRUE,TRUE,TRUE,Deployment time
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Scalability
+Europe,50-99,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,FALSE,TRUE,Deployment time
+Europe,10-49,A few times a week,Ad Hoc,Automated,TRUE,FALSE,TRUE,FALSE,11-20,TRUE,TRUE,TRUE,Productivity
+Europe,100-499,A few times a quarter,,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,10-49,,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,11-20,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a week,Multiple times a day,Automated,TRUE,TRUE,TRUE,TRUE,50+,TRUE,TRUE,TRUE,Deployment time
+Europe,1000-4999,Multiple times a day,Daily,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,
+Europe,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,TRUE,11-20,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,Multiple times a day,Monthly,Automated,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Productivity
+Africa,<10,Multiple times a day,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Multiple times a day,Automated,TRUE,FALSE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,Cost
+Europe,100-499,A few times a week,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Africa,50-99,Multiple times a day,Quarterly,Hybrid,TRUE,FALSE,FALSE,FALSE,1,FALSE,TRUE,TRUE,
+Asia,>5000,Multiple times a day,Monthly,Manual,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Asia,>5000,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,TRUE,FALSE,,TRUE,FALSE,FALSE,
+Asia,>5000,Multiple times a day,Monthly,Manual,TRUE,TRUE,TRUE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,500-999,,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,,TRUE,FALSE,TRUE,Deployment time
+North America,500-999,A few times a week,Ad Hoc,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Scalability
+North America,>5000,A few times a month,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,,,,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,Productivity
+North America,10-49,,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE,TRUE,
+North America,>5000,A few times a month,Multiple times a day,Hybrid,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,FALSE,FALSE,Cost
+Europe,100-499,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Daily,Automated,TRUE,TRUE,TRUE,FALSE,,FALSE,TRUE,TRUE,
+North America,10-49,A few times a quarter,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Productivity
+Europe,10-49,A few times a month,Daily,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,Scalability
+North America,>5000,A few times a quarter,,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Europe,10-49,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,Availability
+North America,10-49,A few times a month,Weekly,Manual,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,FALSE,FALSE,
+South and Central America,>5000,A few times a week,Monthly,Hybrid,TRUE,TRUE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Ad Hoc,Manual,TRUE,TRUE,FALSE,TRUE,50+,FALSE,TRUE,TRUE,
+North America,>5000,,,,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+South and Central America,<10,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,10-49,A few times a week,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+North America,>5000,A few times a quarter,Daily,Hybrid,TRUE,TRUE,TRUE,TRUE,50+,TRUE,TRUE,FALSE,Cost
+Europe,10-49,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,1,FALSE,TRUE,TRUE,Deployment time
+North America,1000-4999,Multiple times a day,Daily,Automated,TRUE,FALSE,TRUE,FALSE,21-50,TRUE,TRUE,TRUE,Cost
+North America,10-49,,,,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,
+North America,>5000,Multiple times a day,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE,FALSE,
+North America,500-999,Multiple times a day,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,FALSE,FALSE,
+North America,>5000,Multiple times a day,,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,FALSE,
+North America,10-49,Multiple times a day,Ad Hoc,Hybrid,TRUE,FALSE,FALSE,TRUE,21-50,TRUE,TRUE,FALSE,Scalability
+North America,50-99,,,Automated,TRUE,FALSE,FALSE,TRUE,50+,TRUE,TRUE,FALSE,
+North America,100-499,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+North America,10-49,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,FALSE,TRUE,TRUE,
+North America,>5000,Multiple times a day,Ad Hoc,Manual,TRUE,TRUE,TRUE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,A few times a quarter,Weekly,Hybrid,TRUE,FALSE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,A few times a month,Multiple times a day,Automated,TRUE,FALSE,TRUE,FALSE,2-5,TRUE,FALSE,TRUE,Scalability
+North America,10-49,,,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Europe,<10,Multiple times a day,Multiple times a day,Automated,TRUE,FALSE,TRUE,FALSE,2-5,TRUE,FALSE,TRUE,Deployment time
+Europe,1000-4999,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Scalability
+Europe,50-99,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,TRUE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a week,Quarterly,Hybrid,TRUE,TRUE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Cost
+Asia,100-499,A few times a month,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+Asia,100-499,Multiple times a day,Weekly,Automated,TRUE,FALSE,TRUE,FALSE,6-10,FALSE,TRUE,TRUE,
+Asia,50-99,A few times a month,Monthly,Manual,TRUE,TRUE,TRUE,FALSE,11-20,TRUE,TRUE,TRUE,
+Europe,50-99,Multiple times a day,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,1,TRUE,FALSE,TRUE,Deployment time
+North America,>5000,Multiple times a day,Quarterly,Hybrid,TRUE,TRUE,TRUE,TRUE,50+,TRUE,TRUE,FALSE,Portability
+Asia,50-99,Multiple times a day,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,1,TRUE,FALSE,TRUE,Deployment time
+Asia,50-99,Multiple times a day,Monthly,Manual,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE,TRUE,Deployment time
+Asia,100-499,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+Asia,100-499,A few times a week,Multiple times a day,Manual,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,>5000,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,FALSE,TRUE,Scalability
+Europe,100-499,Multiple times a day,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,<10,Multiple times a day,Weekly,Manual,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE,
+Asia,<10,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,TRUE,FALSE,2-5,TRUE,TRUE,FALSE,Scalability
+North America,>5000,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,FALSE,
+Asia,1000-4999,A few times a week,Weekly,Automated,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,
+Asia,50-99,Multiple times a day,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,,FALSE,TRUE,TRUE,
+Asia,100-499,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+North America,>5000,A few times a week,Quarterly,Hybrid,TRUE,TRUE,FALSE,TRUE,6-10,FALSE,TRUE,TRUE,Availability
+Asia,50-99,A few times a week,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,FALSE,Productivity
+Asia,500-999,A few times a month,Quarterly,Automated,TRUE,TRUE,FALSE,FALSE,11-20,TRUE,FALSE,TRUE,Deployment time
+Asia,50-99,Multiple times a day,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,
+Asia,50-99,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Cost
+Asia,50-99,A few times a week,Monthly,Manual,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,Multiple times a day,Monthly,,TRUE,FALSE,TRUE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,A few times a month,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,
+North America,100-499,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,TRUE,21-50,TRUE,TRUE,TRUE,
+Asia,50-99,A few times a month,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,FALSE,
+Asia,50-99,A few times a week,Monthly,Hybrid,TRUE,FALSE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,Multiple times a day,Monthly,Hybrid,TRUE,TRUE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Scalability
+Asia,50-99,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,A few times a week,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Cost
+Asia,50-99,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,TRUE,50+,TRUE,TRUE,TRUE,
+Asia,1000-4999,Multiple times a day,Weekly,Hybrid,TRUE,TRUE,FALSE,FALSE,50+,TRUE,FALSE,TRUE,Deployment time
+Asia,>5000,Multiple times a day,Multiple times a day,Automated,TRUE,TRUE,FALSE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Asia,100-499,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,
+Asia,50-99,Multiple times a day,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,A few times a month,Monthly,Hybrid,TRUE,FALSE,FALSE,FALSE,50+,TRUE,TRUE,TRUE,Deployment time
+Asia,50-99,A few times a week,Weekly,Hybrid,TRUE,FALSE,FALSE,TRUE,2-5,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,Multiple times a day,Daily,Automated,TRUE,FALSE,FALSE,FALSE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,100-499,A few times a week,Monthly,Automated,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a week,Multiple times a day,Hybrid,TRUE,FALSE,FALSE,TRUE,6-10,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,A few times a week,Weekly,Hybrid,TRUE,FALSE,TRUE,FALSE,2-5,TRUE,TRUE,TRUE,Deployment time
+Europe,1000-4999,A few times a week,Monthly,Automated,TRUE,FALSE,FALSE,FALSE,21-50,TRUE,TRUE,TRUE,Deployment time
+North America,<10,A few times a week,Weekly,Hybrid,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE,Deployment time
+Europe,>5000,A few times a quarter,Weekly,Hybrid,TRUE,FALSE,FALSE,FALSE,11-20,TRUE,TRUE,TRUE,Deployment time
+North America,1000-4999,A few times a month,Quarterly,Manual,TRUE,FALSE,FALSE,FALSE,,TRUE,FALSE,TRUE,Portability
